@@ -28,18 +28,18 @@ Contiene todo lo visible de la página.
 #### `<header>`
 - Se usa para incluir un **logo animado** con una etiqueta `<video>`:
   ```html
-  <video autoplay loop muted playsinline width="150">
-    <source src="PaoloV7LogoVideo.mp4" type="video/mp4">
+  `<video autoplay loop muted playsinline width="150">`
+   ` <source src="PaoloV7LogoVideo.mp4" type="video/mp4">`
     Video de logo PaoloV7 en movimiento
-  </video>
-<main>
-Contiene una presentación personal con un encabezado <h1> y un párrafo <p>.
+ #### ` </video>`
+#### <main>
+#### Contiene una presentación personal con un encabezado `<h1>` y un párrafo `<p>`.
 
-Incluye enlaces a redes sociales con la etiqueta <a>.
+Incluye enlaces a redes sociales con la etiqueta ` <a>.`
 
-Muestra una imagen personal con la etiqueta <img>.
+Muestra una imagen personal con la etiqueta `<img>.`
 
-<footer>
+#### ` <footer>`
 Información de contacto.
 
 Derechos de autor.
